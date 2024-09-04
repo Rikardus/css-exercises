@@ -1,0 +1,15 @@
+#number2 {
+	color: blue;
+	font-size: 38px
+}
+
+#number4 {
+	font-size: 24px;
+	font-weight: bold;
+	background: rgb(134,242,152);	
+}	
+
+.odd-values {
+	background: rgb(242,134,134);
+	font-family: "Analecta"; "DejaVu Sans"; 
+}
